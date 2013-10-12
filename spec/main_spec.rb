@@ -1,4 +1,4 @@
-describe "Application 'HS'" do
+describe "AppDelegate'" do
   before do
     @app = UIApplication.sharedApplication
   end
