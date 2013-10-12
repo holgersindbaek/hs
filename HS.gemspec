@@ -2,7 +2,7 @@
 HS_VERSION = "0.1"
 
 Gem::Specification.new do |spec|
-  spec.name          = "HS"
+  spec.name          = "hs"
   spec.version       = HS_VERSION
   spec.authors       = ["Holger Sindbaek"]
   spec.email         = ["HolgerSindbaek@gmail.com"]
