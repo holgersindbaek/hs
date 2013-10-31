@@ -21,5 +21,6 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "rake"
   spec.add_dependency "sugarcube"
-  spec.add_dependency "bubble-wrap", "~> 1.3.0"
+  spec.add_dependency "bubble-wrap", ">= 1.3.0"
+  spec.add_dependency "motion-cocoapods", ">= 1.3.7"
 end
